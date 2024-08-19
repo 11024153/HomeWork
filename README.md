@@ -159,7 +159,6 @@ if __name__ == "__main__":
   print "length:",ll.length()
   ll.travel()
 
-
-
 运行结果：
 
+![image](https://img.jbzj.com/file_images/article/201711/20171110121942437.png?20171010121954)
