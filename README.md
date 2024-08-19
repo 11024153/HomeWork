@@ -15,7 +15,9 @@ search(item) 查找节点是否存在
 
 具体代码：
 class Node(object):
+
   """节点"""
+  
   def __init__(self, item):
     self.item = item
     self.next = None
