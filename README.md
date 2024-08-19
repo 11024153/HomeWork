@@ -14,6 +14,7 @@ remove(item) 删除一个节点
 search(item) 查找节点是否存在
 
 具体代码：
+
 class Node(object):
 
   """节点"""
