@@ -6,7 +6,7 @@
 
 具体代码：
 
-![image]](https://github.com/11024153/HomeWork/blob/main/image1.png)
+![image](https://github.com/11024153/HomeWork/blob/main/image1.png)
 
 运行结果：
 
